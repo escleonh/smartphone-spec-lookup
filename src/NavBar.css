@@ -1,0 +1,11 @@
+.navBar{
+    width: 100vw;
+    display: flex;
+    flex-direction: flex-start;
+    background-color: ghostwhite;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+#logo{
+    display: block;
+}

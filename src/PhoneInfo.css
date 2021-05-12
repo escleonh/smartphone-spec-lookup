@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.informationContainer{
+font-family: 'Poppins', sans-serif;
+ width: 100vw;
+ /* border: 1px solid blue; */
+ display: flex; 
+justify-content: center; 
+ 
+}
+.info{
+    margin-left: 20px;
+    /* border: 1px solid red; */
+    /* text-align: center; */
+
+}
+
+.phoneImg{
+    /* border: 1px solid red; */
+    display: grid;
+    place-items: center;
+}
+.title{
+    text-align: center;
+    margin-top: 5vh;
+
+}
